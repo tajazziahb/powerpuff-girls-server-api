@@ -15,11 +15,6 @@ Type a character’s name into the input box and instantly see their image, colo
 
 ---
 
-## 🖼️ Screenshot
-![screenshot](./screenshot.png "Powerpuff Girls API")
-
----
-
 ## ⚙️ How It Works
 Users enter the name of a Powerpuff Girl into the input field and click the button to fetch data.  
 The app retrieves the corresponding character’s image, color, personality, and other details, then displays them dynamically in a clear two-column layout — labels on the left, values on the right.  
