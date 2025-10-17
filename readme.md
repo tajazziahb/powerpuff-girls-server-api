@@ -11,10 +11,7 @@ Type a character’s name into the input box and instantly see their image, colo
 ---
 
 ## 🧱 Tech Stack
-- **Node.js + Express.js** — server setup and custom API creation  
-- **HTML5** — structure and layout  
-- **CSS3** — responsive styling and animations  
-- **JavaScript (ES6)** — data fetching and DOM manipulation  
+**Node.js + Express.js** **HTML**  **CSS** **JavaScript**  
 
 ---
 
