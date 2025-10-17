@@ -4,7 +4,7 @@ A playful server-side web app that fetches and displays data about your favorite
 Type a character’s name into the input box and instantly see their image, color, personality, voice actor, and more pop onto the screen.
 
 ---
-[Link to project]()
+[Link to project](https://powerpuff-girls-server-api-production.up.railway.app/)
 ## 🖼️ Screenshot
 ![screenshot](img/ppgirls.png "Powerpuff Girls API")
 
